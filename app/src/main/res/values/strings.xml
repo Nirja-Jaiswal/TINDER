@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">TINDER</string>
+    <string name="setting">Settings</string>
+    <string name="tinder">tinder</string>
+    <string name="t1">Priority Likes, message before you match, and more</string>
+    <string name="t2"><![CDATA[See who likes you & more]]></string>
+    <string name="t3"><![CDATA[Unlimited Likes & more]]></string>
+    <string name="t4">Get Boosts to increase your matches</string>
+    <string name="t5">Account Settings</string>
+    <string name="phoneno">Phone Number</string>
+    <string name="t6">918871282976</string>
+    <string name="t7">Verify a phone number to help secure your account.</string>
+    <string name="discoverysetting">Discovery Settings</string>
+    <string name="location">Location</string>
+    <string name="my_crt_loc">My Current Location</string>
+    <string name="t9">Change your location to see Tinder member in other cities.</string>
+    <string name="global">Global</string>
+    <string name="t10">Going global will allow you to see people nearby and from around the world.</string>
+    <string name="t11">50mi.</string>
+    <string name="max_dis">Maximum distance</string>
+    <string name="age_range">Age range</string>
+    <string name="t12">27 - 47</string>
+    <string name="t13">Everyone</string>
+    <string name="show_me">Show Me</string>
+    <string name="t14">Tinder uses these preferences to suggest matches. Some match suggestions may not fall within your desired parameters.</string>
+    <string name="show_me_on_tinder">Show Me on Tinder</string>
+    <string name="t15">While turned off, you will not be shown in the card stack. People you have already liked may still see your profile and match with you. You can still and chat with your matches.</string>
+    <string name="block">Block contacts</string>
+    <string name="share_my_feed">Share my feed</string>
+    <string name="t16">Sharing your social content will greatly increase your chances of receiving messages!</string>
+    <string name="recommended">Recommended sort</string>
+    <string name="t17">Turning this off will exclude your profile when your matches sort by recommended</string>
+    <string name="data_usage">Data usage</string>
+    <string name="text1">Click on Next</string>
+</resources>
